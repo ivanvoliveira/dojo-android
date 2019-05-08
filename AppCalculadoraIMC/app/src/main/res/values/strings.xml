@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="hint_numero">Insira um número</string>
+    <string name="button_soma">+</string>
+    <string name="button_sub">-</string>
+    <string name="button_mult">x</string>
+    <string name="button_div">/</string>
+    <string name="resultado">Resultado</string>
+</resources>
